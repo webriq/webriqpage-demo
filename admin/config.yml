@@ -5,7 +5,7 @@ backend:
 production:
   backend:
     name: github-api
-    repo: webriq/business-static-template # Path to your Github repository
+    repo: webriq/webriqpage-demo # Path to your Github repository
     branch: demo # Branch to update (master by default)
 
 media_folder: "assets/img/uploads" # Folder where user uploaded files should go
