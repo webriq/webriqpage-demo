@@ -2,7 +2,7 @@
 title: "Get Your Rating Widget Now!"
 banner: /img/article1.jpg
 shortdesc: Here is some more information about this product that is only revealed once clicked on.
-updatedDate: 2017-04-12T02:24:34.603Z
+updatedDate: 2017-06-26T17:33:51.468Z
 cmsUserSlug: get-your-rating-widget-now
 date: 2016-04-06T00:00:00.000Z
 categories: technology food
